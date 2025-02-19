@@ -11,7 +11,11 @@ En este repositorio encontrarás los contenidos de la materia _Seguridad en Apps
 - [Artículo sobre _Git_](https://jonmircha.com/git)
 - [Recursos de Inteligencia Artificial](./mds/IA.md)
 
-## Exposiciones del Primer Parcial: Patrones de Arquitectura de Software Lunes 03 de Marzo
+## Exposiciones del Primer Parcial.
+
+### Patrones de Arquitectura de Software
+
+#### Lunes 03 de Marzo
 
 1. Patrón _MVC_ (Modelo Vista Controlador)
    - Alvarez Lopez Uri Yael
@@ -26,7 +30,11 @@ En este repositorio encontrarás los contenidos de la materia _Seguridad en Apps
    - Gutierrez Maya Axel Uriel
    - Vilchis Meza Roberto Alejandro
 
-## Exposiciones del Segundo Parcial: Herramientas de Desarrollo Lunes 31 de Marzo
+## Exposiciones del Segundo Parcial
+
+### Herramientas de Desarrollo
+
+#### Lunes 31 de Marzo
 
 1. Herramientas de Desarrollo Web
    - Gutierrez Maya Axel Uriel
@@ -41,7 +49,11 @@ En este repositorio encontrarás los contenidos de la materia _Seguridad en Apps
    - Alvarez Lopez Uri Yael
    - Atilano Tlapaya José Miguel
 
-## Exposiciones del Tercer Parcial: Seguridad en Apps _OWASP_ Lunes 5 de Mayo
+## Exposiciones del Tercer Parcial
+
+### Seguridad en Apps (_OWASP_)
+
+#### Lunes 5 de Mayo
 
 1. _OWASP: MASVS_
    - Gutierrez Maya Axel Uriel
