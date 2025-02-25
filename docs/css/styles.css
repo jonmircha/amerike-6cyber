@@ -1,5 +1,72 @@
+:root {
+  font-size: 16px;
+  /* 
+  Para saber el valor en pixeles aplica una regla de 3
+  1rem -> 16px
+  1.5rem -> ???? = 20px
+  */
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   /* background-color: darksalmon;
   color: blue; */
   font-family: sans-serif;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 1rem;
+  background-color: black;
+  color: white;
+}
+
+ul li {
+  color: greenyellow;
+}
+
+#hola-mundo {
+  color: red;
+  text-align: center;
+  font-size: 2rem;
+  background-color: aliceblue;
+}
+
+p:hover {
+  background-color: aqua;
+}
+
+.bg-magenta {
+  background-color: magenta;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.font-2 {
+  font-size: 2rem;
+}
+
+.font-1_5 {
+  font-size: 1.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
 }

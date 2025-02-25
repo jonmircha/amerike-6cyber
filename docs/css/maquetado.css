@@ -1,0 +1,55 @@
+:root {
+  font-size: 16px;
+}
+
+/* 
+mobile hasta los 768px
+tablet hata los 1024px
+desktop de +1200px 
+
+*/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.servicio {
+  border: 1px solid black;
+  padding: 2rem;
+  text-align: center;
+}
+
+.grid-servicios,
+.grid-acerca {
+  display: grid;
+  grid-template-columns: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .grid-servicios,
+  .grid-acerca {
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .grid-servicios {
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .grid-servicios {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+  }
+}
