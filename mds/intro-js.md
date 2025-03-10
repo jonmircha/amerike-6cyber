@@ -96,7 +96,7 @@ Los operadores se usan para realizar cálculos o comparaciones.
 
 1. **Aritméticos:** `+`, `-`, `*`, `/`, `%`
 2. **Asignación:** `=`, `+=`, `-=`
-3. **Comparación:** `==`, `===`, `!=`, `<`, `>`, `<=`, `>=`
+3. **Comparación:** `==`, `===`, `!=`, `!==`, `<`, `>`, `<=`, `>=`
 4. **Lógicos:** `&&`, `||`, `!`
 
 #### Ejemplo:
