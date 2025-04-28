@@ -14,6 +14,7 @@ En este repositorio encontrarás los contenidos de la materia _Seguridad en Apps
 - [_GitHub Pages_ del Repositorio](https://jonmircha.github.io/amerike-6cyber/)
 - [Intro _JavaScript_](./mds/intro-js.md)
 - [Intro _DOM_](./mds/dom.md)
+- [Web Apps con IA](./mds/apps-ia.md)
 
 ## Exposiciones del Primer Parcial.
 
